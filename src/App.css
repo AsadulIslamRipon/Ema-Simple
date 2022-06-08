@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  max-width: 1400px;
+  margin: auto;
+  font-family: 'Lato';
+  box-sizing: border-box;
 }
 
 .App-logo {
