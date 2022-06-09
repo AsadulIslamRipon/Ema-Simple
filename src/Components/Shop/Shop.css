@@ -9,3 +9,7 @@
     grid-gap: 25px;
     margin-top: 80px;
 }
+
+.cart-container{
+    background-color: rgba(255, 153, 0, 0.3);
+}

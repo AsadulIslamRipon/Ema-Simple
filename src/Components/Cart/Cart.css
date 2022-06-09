@@ -1,0 +1,22 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 10px 0 0 30px;
+}
+
+.cart h2 {
+  font-size: 50px;
+  color: #1c2b35;
+}
+
+.cart p {
+  font-size: 17px;
+  letter-spacing: 0.005em;
+  color: #2a414f;
+}
+
+.cart .total-grand {
+  font-size: 21px;
+  letter-spacing: 0.0015em;
+  color: #0e161a;
+}
